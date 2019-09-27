@@ -23,7 +23,7 @@ It is based on [Material Dashboard](https://github.com/creativetimofficial/mater
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
 ```bash
-composer require deyraka/yii2-material-dashboard 
+composer require deyraka/yii2-material-dashboard:"v1.0.0-beta" 
 ```
 
 or add to your composer.json
@@ -31,7 +31,7 @@ or add to your composer.json
 ```json
 {
 	"require": {
-		"deyraka/yii2-material-dashboard": "1.*"
+		"deyraka/yii2-material-dashboard": "v1.0.0-beta"
 	}
 }
 ```
