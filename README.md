@@ -3,7 +3,7 @@ Material Dashboard for Yii2 Framework
 
  ![version](https://img.shields.io/badge/stable-1.0.0-blue.svg) 
  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/deyraka/yii2-material-dashboard/LICENSE.md)
- ![downloads](https://img.shields.io/github/downloads/deyraka/yii2-material-dashboard/total)
+ [![Total Downloads](https://poser.pugx.org/deyraka/yii2-material-dashboard/d/total.svg)](https://packagist.org/packages/deyraka/yii2-material-dashboard)
  
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-dashboard-html/material-dashboard-free.gif)
